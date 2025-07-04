@@ -63,7 +63,7 @@
 | Dashboard | Mahasiswa | Dosen |
 |:---:|:---:|:---:|
 
-<img src="/Screenshot 2025-07-04 135615.png" width="500">|
+<img src="/dashboard.png" width="500">|
 
 <img src="/mahasiswa.png" width="500"> |
 
